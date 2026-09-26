@@ -4,7 +4,7 @@ FitLog is a modern workout tracking app built with Next.js. Users can explore wo
 
 ## 🚀 Live Demo
 
-[Live Demo]()
+[Live Demo](https://fitness-hub-smoky.vercel.app/)
 
 ## 📂 GitHub Repository
 
