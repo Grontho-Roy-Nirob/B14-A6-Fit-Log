@@ -81,7 +81,7 @@ export const FitLogProvider = ({ children }: { children: ReactNode }) => {
       return;
     }
 
-    if (plan.length >= 5) {
+    if (plan.length>= 5) {
       toast.error("Today's plan can contain maximum 5 workouts");
       return;
     }
