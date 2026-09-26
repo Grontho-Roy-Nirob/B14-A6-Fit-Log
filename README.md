@@ -1,4 +1,4 @@
-💪 Fitness Hub
+# 💪 Fitness Hub
 
 Fitness Hub is a modern workout tracking app built with Next.js. Users can explore workouts, view details, create a daily plan, save workouts, and track their progress.
 
